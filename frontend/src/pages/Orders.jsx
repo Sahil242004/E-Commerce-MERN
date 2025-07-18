@@ -29,7 +29,9 @@ const Orders = () => {
         });
         setOrderData(allOrderItem.reverse());
       }
-    } catch (error) {}
+    } catch (error) {
+      console.log(error.message);
+    }
   };
 
   useEffect(() => {
