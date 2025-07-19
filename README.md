@@ -109,7 +109,8 @@ Your are good to go!!
 ![Frontend Screenshot](/docs/ss_frontend4.png)
 ![Frontend Screenshot](/docs/ss_frontend5.png)
 ![Frontend Screenshot](/docs/ss_frontend6.png)
-![Frontend Screenshot](/docs/ss_frontend7.png)
+
+<!-- ![Frontend Screenshot](/docs/ss_frontend7.png) -->
 
 ![Admin Screenshot](/docs/ss_admin1.png)
 ![Admin Screenshot](/docs/ss_admin2.png)
