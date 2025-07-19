@@ -87,6 +87,15 @@ Start the Admin App
 ```bash
   //run these in root directory
   cd admin
+  npm run
+```
+
+Admin credentials
+
+```bash
+  //for logging in as admin , please dont delete any entries
+  ADMIN_EMAIL = 'sahilAdmin@gmail.com'
+  ADMIN_PASSWORD = 'sahilAdmin123'
   npm run dev
 ```
 
@@ -94,6 +103,15 @@ Your are good to go!!
 
 ## Screenshots
 
-Frontend
+![Frontend Screenshot](/docs/ss_frontend1.png)
+![Frontend Screenshot](/docs/ss_frontend2.png)
+![Frontend Screenshot](/docs/ss_frontend3.png)
+![Frontend Screenshot](/docs/ss_frontend4.png)
+![Frontend Screenshot](/docs/ss_frontend5.png)
+![Frontend Screenshot](/docs/ss_frontend6.png)
+![Frontend Screenshot](/docs/ss_frontend7.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Admin Screenshot](/docs/ss_admin1.png)
+![Admin Screenshot](/docs/ss_admin2.png)
+![Admin Screenshot](/docs/ss_admin3.png)
+![Admin Screenshot](/docs/ss_admin4.png)
