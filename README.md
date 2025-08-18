@@ -90,13 +90,10 @@ Start the Admin App
   npm run
 ```
 
-Admin credentials
-
 ```bash
-  //for logging in as admin , please dont delete any entries
-  ADMIN_EMAIL = 'sahilAdmin@gmail.com'
-  ADMIN_PASSWORD = 'sahilAdmin123'
-  npm run dev
+  //for logging in as User , dummy credentials
+  EMAIL = 'sahil@gmail.com'
+  PASSWORD = '12345678'
 ```
 
 Your are good to go!!
