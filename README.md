@@ -15,7 +15,7 @@ A full-stack e-commerce web application built using the MERN stack (MongoDB, Exp
 
 ## Demo
 
-Insert gif or link to demo
+[Live Demo - https://e-commerce-frontend-umber-alpha.vercel.app/](https://e-commerce-frontend-umber-alpha.vercel.app/)
 
 ## Tech Stack
 
